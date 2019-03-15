@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="first_btn">#FF0000</color>
+    <color name="first_btn2">#FA0000</color>
+    <color name="first_btn3">#C80000</color>
+    <color name="first_btn4">#960000</color>
+    <color name="first_btn5">#640000</color>
+    <color name="first_btn6">#320000</color>
+
+    <color name="second_btn">#00FF00</color>
+    <color name="second_btn2">#00C800</color>
+    <color name="second_btn3">#009600</color>
+    <color name="second_btn4">#006400</color>
+    <color name="second_btn5">#003200</color>
+    <color name="second_btn6">#000000</color>
+
+    <color name="third_btn">#0000FF</color>
+    <color name="third_btn2">#0000C8</color>
+    <color name="third_btn3">#000096</color>
+    <color name="third_btn4">#000064</color>
+    <color name="third_btn5">#000032</color>
+    <color name="third_btn6">#000000</color>
+</resources>
